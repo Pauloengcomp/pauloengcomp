@@ -3,7 +3,7 @@ Hi! I'm Paulo Lima
 Currently, I work with PL/SQL but am loving study machine learning for my TCC.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/pauloengcomp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloengcomp&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloengcomp&layout=compact&langs_count=7"/>
 </div>
