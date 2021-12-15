@@ -1,7 +1,7 @@
 Hi! I'm Paulo Lima 
 
 
- Graduating in computer engineering in Brazil, Salvador! I have been working for 7 years as a data analyst for companies in the home care area.
+Degree in computer engineering in Brazil, Salvador! I have been working for 7 years as a data analyst for companies in the home care area.
 
 I recently discovered a new love, machine learning! and I intend to dedicate myself even more to this fantastic area.
 
