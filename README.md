@@ -5,7 +5,7 @@ I study computer engineering in Brazil, Salvador! I have been working for 7 year
 
 I recently discovered a new love, machine learning! and I intend to dedicate myself even more to this fantastic area.
 
-Find me here!
+Find me here:
 <div> 
 <a href="https://www.instagram.com/user.paulolima/" target="_blank"><img height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"></a>
 <a href="https://twitter.com/PAULOLIMASILV12" target="_blank"><img height="30" width="40"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" target="_blank"></a>
