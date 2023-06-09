@@ -8,7 +8,7 @@ I recently discovered a new love, machine learning! and I intend to dedicate mys
 Find me here:
 <div> 
 <a href="https://www.instagram.com/user.paulolima/" target="_blank"><img height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"></a>
-<a href="https://twitter.com/PAULOLIMASILV12" target="_blank"><img height="30" width="40"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" target="_blank"></a>
+<a href="https://twitter.com/user_paulolima" target="_blank"><img height="30" width="40"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulo-lima-655621152/" target="_blank"><img height="30" width="40"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank"></a>
 <a href = "mailto:paulollima25@gmail.com"><img height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank"></a>
 <a href="https://open.spotify.com/user/22oqcj56yjnvi65k474zgr3qa" target="_blank"><img height="30" width="40"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/spotify.svg" target="_blank"></a>
