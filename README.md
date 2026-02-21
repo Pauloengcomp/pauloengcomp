@@ -1,9 +1,4 @@
-Hi! I'm Paulo Lima 
-
-
-I study computer engineering in Brazil, Salvador! I have been working for 7 years as a data analyst for companies in the home care area.
-
-I recently discovered a new love, machine learning! and I intend to dedicate myself even more to this fantastic area.
+Computer Engineer with experience in data pipelines, machine learning experiments and automation workflows. Strong background in Python, SQL and analytical problem solving. Interested in scalable data systems and applied AI.
 
 Find me here:
 <div> 
