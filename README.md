@@ -1,62 +1,63 @@
 # Paulo Lima
 
-Computer Engineer specialized in designing and implementing scalable, reliable and automated data pipelines.
+Data Engineer focused on building reliable, scalable and production-grade data systems.
 
-I focus on building robust data architectures that transform raw datasets into structured, business-ready information through layered processing and orchestration workflows.
-
----
-
-## 🔧 What I Build
-
-- End-to-end ETL/ELT pipelines with Airflow  
-- Layered data architectures (RAW → SILVER → GOLD)  
-- Incremental data processing and state management  
-- Automated business alerting systems (Slack integrations)  
-- PostgreSQL data modeling and query optimization  
-- Data validation and monitoring workflows  
-- Modular and testable pipeline design  
+I design end-to-end data pipelines with clear separation of concerns, layered architectures and automation-first workflows.
 
 ---
 
-## 🚀 Featured Architecture
+## Core Focus
 
-Example of a production-style data workflow I implement:
+• Orchestrated data pipelines with Apache Airflow  
+• Layered architectures (RAW → SILVER → GOLD)  
+• Incremental processing and stateful workflows  
+• Data modeling and SQL optimization (PostgreSQL)  
+• Business-rule driven transformation layers  
+• Automated alerting and operational data workflows  
+• Modular, testable and observable systems  
+
+---
+
+## System Architecture Approach
+
+Typical workflow I implement:
 
 Data Source  
-→ Airflow Orchestration  
-→ RAW Layer  
-→ SILVER Transformation  
-→ GOLD Business Logic Layer  
-→ Alerting Service (Slack Bot)  
+→ Orchestration Layer (Airflow)  
+→ Raw ingestion  
+→ Structured transformations  
+→ Business logic layer  
+→ Operational outputs (alerts, reports, downstream systems)
 
-Key characteristics:
+Design principles:
 
-- Retry policies and failure handling  
-- Structured logging  
-- Separation of concerns (ETL, business logic, alerting)  
-- Configurable execution  
-- Automation-first mindset  
-
----
-
-## 🛠 Tech Stack
-
-**Orchestration:** Apache Airflow  
-**Processing:** Python, Pandas  
-**Database:** PostgreSQL  
-**Automation:** Slack API  
-**Containerization:** Docker  
-**Version Control:** Git  
+- Idempotent pipeline design  
+- Retry-aware tasks and controlled failure handling  
+- Logging and observability built-in  
+- Clear separation between orchestration and transformation logic  
+- Reproducible environments  
 
 ---
 
-## 📌 Engineering Principles
+## Engineering Stack
 
-- Build for reliability before complexity  
-- Keep pipelines modular and maintainable  
-- Separate transformation logic from orchestration  
-- Design for observability and controlled failure  
+Python  
+Apache Airflow  
+PostgreSQL  
+Docker  
+Slack API (operational automation)  
+Git  
 
 ---
 
-I am interested in data engineering roles focused on scalable data systems, automation and production-grade data workflows.
+## Engineering Principles
+
+- Reliability over novelty  
+- Explicit data contracts  
+- Deterministic transformations  
+- Fail loudly, recover safely  
+- Automate everything that can be automated  
+
+---
+
+Open to data engineering roles focused on scalable systems, workflow automation and production-grade analytics infrastructure.
